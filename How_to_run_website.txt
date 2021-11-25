@@ -1,0 +1,12 @@
+Follow the steps below to run the website
+
+1. Open directory Arvato/website
+2. Run app.py
+3. Copy the Localhost url
+4. Open web browser and run url
+5. Click on "Choose file" button
+6. Navigate to Arvato/website/MAILOUT_TEST.csv and upload it
+7. Click on the "Predict" button"
+8. Wait for the entire file to be processed. May take a minute or 2.
+9. Header result will be displayed on the web page once prediction is completed.
+10. Complete result can be downloaded by clicking the "click here to download" link
