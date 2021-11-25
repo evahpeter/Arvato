@@ -35,10 +35,9 @@ The following workflow was used to implement this project and covered in detail 
 * Data Exploration & Cleansing
 * Dimensionality Reduction
 * Clustering
-* Supervised Learning
-* Final Model Evaluation
 * Feature Importance
-* Analysis of identified important features in clusters to find relevance
+* Supervised Learning
+* Model Evaluation and Selection
 
 
 
